@@ -6,6 +6,7 @@ It demonstrates how to implement a clock using [Arrow functions](https://develop
 
 | Description | Command |
 | :--- | :--- |
+| Install dependencies | `npm install` |
 | Run tests | `npm test` |
 | Start app in infinite mode | `npm start` |
 | Start app in finite mode | `npm start <number of iterations>` |
